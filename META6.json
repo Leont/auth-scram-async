@@ -1,0 +1,24 @@
+{
+  "auth" : "cpan:LEONT",
+  "authors" : [
+    "Leon Timmermans"
+  ],
+  "build-depends" : [ ],
+  "depends" : [
+    "Crypt::Random",
+    "MIME::Base64",
+    "OpenSSL"
+  ],
+  "description" : "Salted Challenge Response Authentication Mechanism",
+  "license" : "Artistic-2.0",
+  "name" : "Auth::SCRAM::Async",
+  "perl" : "6.c",
+  "provides" : {
+    "Auth::SCRAM::Async" : "lib/Auth/SCRAM/Async.rakumod"
+  },
+  "resources" : [ ],
+  "source-url" : "",
+  "tags" : [ ],
+  "test-depends" : [ ],
+  "version" : "0.0.1"
+}

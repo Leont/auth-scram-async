@@ -17,7 +17,7 @@
     "Auth::SCRAM::Async" : "lib/Auth/SCRAM/Async.rakumod"
   },
   "resources" : [ ],
-  "source-url" : "",
+  "source-url" : "https://github.com/Leont/auth-scram-async.git",
   "tags" : [ ],
   "test-depends" : [ ],
   "version" : "0.0.1"
